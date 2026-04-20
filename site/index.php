@@ -1,5 +1,6 @@
 <?php
 
+global $config;
 require_once __DIR__ . '/modules/database.php';
 require_once __DIR__ . '/modules/page.php';
 require_once __DIR__ . '/config.php';
