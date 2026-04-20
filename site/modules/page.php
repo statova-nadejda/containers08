@@ -2,7 +2,7 @@
 
 class Page
 {
-    private $template;
+    private string $template;
 
     public function __construct($template)
     {
